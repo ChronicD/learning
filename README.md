@@ -17,11 +17,13 @@ Overtime is the informed allocation of time to a task.
 At the beginning of the study time tasks should be identified and given ready status.
 
 Rules:<br>
-Overtime tasks cannot be started until other trasks with ready status have been completed.
-New tasks cannot be added to ready status until all overtime tasks are complete.
-At the end of the study time if all tasks are not complete then they are carried over to the next.
-If all tasks are completed early, then a new ready task list is generated for the scope of the remainder of the time.
-If at the end of a task it is not complete then a scope of what is needed to finish ti should be ammended to the task.
+<ul>
+    <li>Overtime tasks cannot be started until other trasks with ready status have been completed.</li>
+    <li>New tasks cannot be added to ready status until all overtime tasks are complete.</li>
+    <li>At the end of the study time if all tasks are not complete then they are carried over to the next.</li>
+    <li>If all tasks are completed early, then a new ready task list is generated for the scope of the remainder of the time.</li>
+    <li>If at the end of a task it is not complete then a scope of what is needed to finish ti should be ammended to the task.</li>
+</ul>
 
 Each task will start with a 5min close study of the learning objectives to build a metric to measure the task against. This may include additional items identified as needed for the understanding of the task.
 
