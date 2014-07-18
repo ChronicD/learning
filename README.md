@@ -30,4 +30,6 @@ Each task will be reviewed for 5min when done to compare the learning outcomes w
 Once task objectives are defined a task list is built with increments of 20 min. 
 There is a 10 min pause in the middle of a 2hr task ie after 2x20 min blocks.
 
-The expectation is that many tasks will take longer then the scope of the task. Over time task identification and associated time cost will be fine tuned as a skill. In the meantime 
+A 1hr task is done with no break, but it is expected that a 10 min break is then taken before starting another.
+
+The expectation is that many tasks will take longer then the scope of the task. Over time task identification and associated time cost will be fine tuned as a skill. 
