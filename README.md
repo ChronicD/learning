@@ -11,12 +11,12 @@ This system is a work in progress: The goal is to attain a high rate of learning
 
 Inspired by Time banking i am using time as a currency, each item gets assigned a certain amount of time upon its creation. Once the task is started the time starts to be spent. Upon using all the time assigned to a task it is placed back into a ready status waiting to be assigned overtime, so as to be worked on again.
 
-Overtime:
+Overtime:<br>
 Overtime is the informed allocation of time to a task.
 
 At the beginning of the study time tasks should be identified and given ready status.
 
-Rules:
+Rules:<br>
 Overtime tasks cannot be started until other trasks with ready status have been completed.
 New tasks cannot be added to ready status until all overtime tasks are complete.
 At the end of the study time if all tasks are not complete then they are carried over to the next.
